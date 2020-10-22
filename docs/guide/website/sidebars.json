@@ -55,6 +55,6 @@
       "tutorials/3rd-party-NLU",
       "tutorials/uipath"
     ],
-    "Pro Edition": ["pro/about-pro", "pro/licensing", "pro/rbac", "pro/monitoring", "pro/pipelines", "pro/i18n"]
+    "Botpress Enterprise": ["enterprise/about-enterprise", "enterprise/licensing", "enterprise/rbac", "enterprise/monitoring", "enterprise/pipelines", "enterprise/i18n"]
   }
 }
