@@ -1,5 +1,5 @@
 ---
-id: about-pro
+id: about-enterprise
 title: About
 ---
 
